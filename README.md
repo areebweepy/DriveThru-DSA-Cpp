@@ -40,10 +40,11 @@ This is a **C++ console-based Drive-Thru Ordering System** developed as part of 
 ## 📂 Project Structure
 ```
 DriveThruDSA/
+├── Flowchart.png # System design flowchart
 ├── README.md # Project documentation
 ├── main.cpp # Full source code (>3000 lines)
 ├── total_earned.txt # Output file for daily sales
-├── flowchart.png # System design flowchart
+
 
 ```
 ---
