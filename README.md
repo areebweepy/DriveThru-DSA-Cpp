@@ -62,7 +62,7 @@ DriveThruDSA/
 
 The project logic is illustrated in this flowchart:
 
-![Flowchart](flowchart.png)
+![Flowchart](Flowchart.png)
 
 ---
 
