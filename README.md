@@ -78,6 +78,7 @@ The project logic is illustrated in this flowchart:
 ---
 
 ## Outputs:
+```
 1)Welcome Window:
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/283cac82-07df-479e-b711-dbc18b6b159b" />
 
@@ -101,7 +102,7 @@ The project logic is illustrated in this flowchart:
 
 8)Admin Options:
 <img width="608" height="310" alt="image" src="https://github.com/user-attachments/assets/420cd30c-03ab-4c47-8439-cac02eb6eb98" />
-
+```
 ---
 
 ## 👨‍💻 Author
